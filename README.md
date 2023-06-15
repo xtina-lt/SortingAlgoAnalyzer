@@ -1,4 +1,6 @@
-<img align="center" width="350" src="https://octodex.github.com/images/mona-the-rivetertocat.png"/>
+<div align="center">
+<img width="350" src="https://octodex.github.com/images/mona-the-rivetertocat.png"/>
+</div>
 
 # Welcome to Our Humble Sorting Tester
 The purpose of this program is to test out two sorting algorithms.
@@ -36,8 +38,11 @@ Bubble    Insertion
 2. Look at populated table.
 
 
+<div align="center">
+
 ![alt text](screenshots.png "Screenshots")
 <img width="350" align="center" src="unicorn.png"/>
+</div>
 
 <!-- 👣FOOTER👣 -->
 &nbsp;
